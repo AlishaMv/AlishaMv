@@ -8,6 +8,7 @@ ____________________________________________________________________
 1. [Репозиторий с проектами Data Science](https://github.com/AlishaMv/Data_Science_Projects)  
 2. [Сертификаты о прохождении курсов](https://github.com/AlishaMv/Data_Science_Projects/tree/main/certificates)
 3. [Профиль на Kaggle](https://www.kaggle.com/alinamedvedeva)
+4. [Профиль на LinkedIn](https://www.linkedin.com/in/alishamv/)
 _____________________________
 
 Alina Medvedeva medvedeva.alisha@gmail.com

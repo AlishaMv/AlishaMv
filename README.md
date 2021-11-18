@@ -11,7 +11,8 @@ ____________________________________________________________________
 4. [Профиль на LinkedIn](https://www.linkedin.com/in/alishamv/)
 _____________________________
 
-Alina Medvedeva medvedeva.alisha@gmail.com
+Alina Medvedeva medvedeva.alisha@gmail.com  
+telegram: https://t.me/alisha_mv
 
 <!--
 **alina-medvedeva/alina-medvedeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
